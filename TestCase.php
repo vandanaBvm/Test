@@ -12,4 +12,9 @@ abstract class TestCase extends BaseTestCase
     {
         return 0 ;
     }
+
+    public function testing1()
+    {
+        return 0 ;
+    }
 }
